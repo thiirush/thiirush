@@ -1,7 +1,7 @@
 ### Hi there. I am Thiago Pereira. 👋
 
-- 🔭 I’m currently working on a digital marketing agency. ...
-- 🌱 I’m currently learning Node.JS, ReactJS and NextJS. ...
+- 🔭 I’m currently working on a digital marketing agency and freelancer.
+- 🌱 I’m currently learning Node.JS, ReactJS and NextJS.
 - 👯 I’m looking to collaborate on open source projects that helps other people.
 
 
