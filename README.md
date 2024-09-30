@@ -1,33 +1,20 @@
-### Hi there. I am Thiago Pereira. 👋
+# Hi there! 👋
 
-- 🔭 I’m currently working on a digital marketing agency and freelancer.
-- 🌱 I’m currently learning Node.JS, ReactJS and NextJS.
-- 👯 I’m looking to collaborate on open source projects that helps other people.
+I’m **Thiago**, a tech enthusiast passionate about creating innovative and efficient solutions. With experience in web and backend development, I’m always exploring new technologies and improving my skills.
 
+## 💻 Specialties:
+- Full Stack Development (Node.js, React, NestJS, Laravel)
+- Databases (PostgreSQL, MySQL)
+- Infrastructure (Docker, Kubernetes)
+- ERP Systems and API Integration
 
-```javascript
- 
-const WhoAmI = {
-  name: "Thiago Pereira",
-  role: "fullstack",
-  current_edu: "Rocketseat",
-  current_location: "Belo Horizonte - MG - Brasil",
-  skills: [
-  "NodeJs",
-  "ReactJs",
-  "NextJs",
-  "PHP",
-  "Wordpress"
-  ],
-  hobbies: [
-   "Studying",
-   "Watching Anime",
-   "Playing Tibia",
-}
- ```
- 
+## 🚀 Always learning
+I’m constantly looking for new challenges and opportunities to grow and collaborate with other talented developers.
 
-![Readme Card](https://github-readme-stats.vercel.app/api/?username=thiirush&theme=dracula)]
+## 🌱 Other passions
+In addition to coding, I’m passionate about gardening and cultivation, where I apply my curiosity to explore new techniques.
+
+Let’s connect and build something amazing together!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/thiago-pereira-71347014b)
 <!--
